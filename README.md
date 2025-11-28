@@ -8,7 +8,7 @@ This project is a concept for a database-driven application designed to help Int
 * **Backend (Design):** Oracle SQL (PL/SQL).
 
 ## How to View
-* **[Click Here to View the Live Interface Prototype](file:///C:/Users/dponb/OneDrive/Desktop/Datx5801_Project/projFace.html)**
+* **[Click Here to View the Live Interface Prototype](https://dponblueberry-beep.github.io/IEP-PROGRESS-TRACKER/)**
 * **Database Logic:** View the `database.sql` file in this repository to see the table structure and data manipulation logic.
 
 ## Conceptual Design
